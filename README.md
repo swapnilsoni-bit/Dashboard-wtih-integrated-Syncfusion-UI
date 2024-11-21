@@ -20,7 +20,7 @@ This dashboard reflects my skills and passion for creating engaging web applicat
 
 Swapnil Soni
 
-As a passionate web developer, I focus on creating responsive and user-friendly applications. SwapTube is a testament to my skills in React.js, API integration, and modern UI/UX design.
+As a passionate web developer, I focus on creating responsive and user-friendly applications. Shopster is a testament to my skills in React.js, API integration, and modern UI/UX design.
 
 Feel free to reach out:
 
