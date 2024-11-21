@@ -1,4 +1,4 @@
-Dashboard with integrated Syncfusion UI
+Shopster:-Dashboard wtih integrated Syncfusion UI
 
 This project is a Dashboard Website created by Swapnil Soni,providing a dynamic and interactive platform for data visualization and user management. The dashboard is built using modern technologies, including React.js, Tailwind CSS, and Syncfusion UI Components, and is designed to deliver a responsive and user-friendly experience. With features like real-time data updates, visually engaging charts, and customizable user-specific pages, this project aims to simplify data analysis and enhance user interaction.
 
